@@ -2,10 +2,10 @@
 This repository contains optimized solutions to coding problems from Leetcode, Codechef, Hackerrank, Atcoder, and other popular coding platforms. The solutions have been organized into clear and concise directories, with file names that describe the content and purpose of each file.
 
 ### Table of Contents
-- [Installation](https://github.com/PriyajeetGoswami/CodeCrush-Optimized-Solutions-for-Leetcode-Codechef-Hackerrank-Atcoder-and-More/edit/main/README.md#installation)
-- [Usage](https://github.com/PriyajeetGoswami/CodeCrush-Optimized-Solutions-for-Leetcode-Codechef-Hackerrank-Atcoder-and-More/edit/main/README.md#usage)
-- [Contributing](https://github.com/PriyajeetGoswami/CodeCrush-Optimized-Solutions-for-Leetcode-Codechef-Hackerrank-Atcoder-and-More/edit/main/README.md#contributing)
-- [License](https://github.com/PriyajeetGoswami/CodeCrush-Optimized-Solutions-for-Leetcode-Codechef-Hackerrank-Atcoder-and-More/edit/main/README.md#license)
+- Installation
+- Usage
+- Contributing
+- License
 
 ### Installation
 To use the code solutions in this repository, simply clone the repository to your local machine:
