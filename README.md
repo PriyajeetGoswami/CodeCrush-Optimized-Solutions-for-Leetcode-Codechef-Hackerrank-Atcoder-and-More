@@ -10,7 +10,7 @@ This repository contains optimized solutions to coding problems from Leetcode, C
 ### Installation
 To use the code solutions in this repository, simply clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/CodeCrush.git
+git clone https://github.com/PriyajeetGoswami/CodeCrush-Optimized-Solutions-for-Leetcode-Codechef-Hackerrank-Atcoder-and-More.git
 ```
 ### Usage
 The code solutions in this repository can be used to learn more about algorithms, data structures, and other programming concepts. You can use the solutions as a reference when solving similar problems, or as a starting point for developing your own solutions.
